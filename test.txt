@@ -1,3 +1,5 @@
 This is a message test to learn git
 
 something changed
+
+something else changed
