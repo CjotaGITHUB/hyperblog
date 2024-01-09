@@ -1,5 +1,3 @@
 This is a message test to learn git
 
-something changed
-
-something else changed in his life and masterpiece
+tomorrow we will focus on our labor life
