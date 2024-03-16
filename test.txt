@@ -1,3 +1,5 @@
 This is a message test to learn git
 
+Master 1
+
 tomorrow we will focus on our labor life
